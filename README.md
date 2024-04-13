@@ -1,4 +1,4 @@
 # Code
 This is my first Repository.
 <br>
-Author - Amay Jadhav
+Author - Amay Jadhav (IY College)
